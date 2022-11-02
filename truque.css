@@ -1,0 +1,180 @@
+/* {}  # */
+#titulo {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+.li {
+    display: flex;
+  
+    color: darkgray;
+    background-color: azure;
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    /* flex-flow:  contiene o funciona con la de irecion y espasio de; */
+    flex-flow: nowrap;
+    list-style: none;
+    justify-content:space-around;
+
+}
+
+.li1 {
+
+    color: black;
+    font-weight: bold;
+    /* width: 80px;
+    line-height: 80px; */
+    text-align: center;
+    margin: 5px;
+    list-style: none;
+
+}
+
+/* {}  # */
+.li2 {
+    font-weight: bold;
+    /* width: 90px;
+    line-height: 100px; */
+    text-align: center;
+    margin: 5px;
+
+}
+
+.li3 {
+    font-weight: bold;
+    /* width: 90px;
+    line-height: 90px; */
+    text-align: center;
+    margin: 5px;
+
+}
+
+/* {}  # */
+.li4 {
+  
+    font-weight: bold;
+    /* width: 90px;
+    line-height: 90px; */
+    text-align: center;
+    margin: 5px;
+
+}
+
+.li5 {
+
+    font-weight: bold;
+
+    text-align: center;
+
+}
+
+.li6 {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    /* width: 90px;
+    line-height: 90px; */
+    text-align: center;
+    margin: 5px;
+}
+
+.li7 {
+    justify-content: flex-end;
+    font-weight: bold;
+    /* width: 90px;
+    line-height: 90px; */
+    text-align: center;
+    margin: 5px;
+}
+
+.li8 {
+    justify-content: flex-end;
+    font-weight: bold;
+    text-align: center;
+    margin: 5px;
+}
+
+/* {}  # */
+
+h1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+#cell {
+
+    border: solid black;
+
+}
+
+.cell0 {
+display: flex;
+justify-content:space-around;
+   
+    border: solid red;
+}
+
+
+/* {}  # */
+#boton {
+    background-color: black;
+    color: aliceblue;
+}
+
+.parrafo {
+    display: flex;
+
+    justify-content: center;
+    border: solid blue;
+}
+
+.parrafo1 {
+    display: flex;
+    justify-content: center;
+}
+
+/* {}  # */
+.img {
+    display: flex;
+    justify-content: space-between;
+}
+
+#nose {
+    background-color: grey;
+    color: black;
+    display: flex;
+    justify-content: last baseline;
+    margin: 3px;
+}
+
+#llamada {
+    background-color: black;
+    color: grey;
+
+
+
+}
+
+#letras {
+    background-color: black;
+    color: grey;
+
+
+    
+
+}
+
+/* {}  # */
+.pie-pagina {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: aliceblue;
+}
+
+.fin{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: RED;}
